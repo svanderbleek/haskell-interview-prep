@@ -1,33 +1,23 @@
 import Text.Parsec
-  (
-    (<|>),
-    parseTest
-  )
+  ((<|>)
+  ,parseTest)
 
 import Text.Parsec.String
-  (
-    Parser
-  )
+  (Parser)
 
 import Text.Parsec.Expr 
-  (
-    Operator(Infix),
-    Assoc(AssocLeft),
-    buildExpressionParser
-  )
+  (Operator(Infix)
+  ,Assoc(AssocLeft)
+  ,buildExpressionParser)
 
 import Text.Parsec.Token 
-  (
-    makeTokenParser,
-    reservedOp,
-    parens,
-    integer
-  )
+  (makeTokenParser
+  ,reservedOp
+  ,parens
+  ,integer)
 
 import Text.Parsec.Language
-  (
-    emptyDef
-  )
+  (emptyDef)
 
 data Expression
   = Addition Expression Expression
