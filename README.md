@@ -1,3 +1,5 @@
-# simple-parsec-expression-parser
+# get that job yo
 
-live coding question
+## parser.hs
+
+live coding question, simple expression parser using parsec
