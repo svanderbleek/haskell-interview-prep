@@ -1,4 +1,4 @@
-# get that job yo
+# get that job
 
 ## parser.hs
 
