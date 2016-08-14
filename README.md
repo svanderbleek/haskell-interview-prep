@@ -12,4 +12,4 @@ hackerrank is aslo fun
 
 ## differences.hs
 
-further evidence I am shite at algos
+further evidence I am bad at on the spot algos
