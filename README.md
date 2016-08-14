@@ -6,6 +6,10 @@ live coding question, simple expression parser using parsec
 
 codewars.com is quite fun
 
+## hackerrank
+
+hackerrank is aslo fun
+
 ## differences.hs
 
 further evidence I am shite at algos
