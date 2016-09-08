@@ -13,3 +13,7 @@ hackerrank is aslo fun
 ## differences.hs
 
 further evidence I am bad at on the spot algos
+
+## mobile.hs
+
+also in Haskell book from codewars
